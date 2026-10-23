@@ -136,7 +136,6 @@ The outcome depends on the circumstances of each case. Cryptocurrency recovery i
 ### EuroTrace — Cryptocurrency Investigation & Recovery Consulting
 
 <a href="https://eurotrace.net/">
-  <img src="https://github.com/eurotrace-com/eurotrace-com/blob/main/eurotrace.png?raw=true"
        alt="EuroTrace website preview"
        width="100%">
 </a>
