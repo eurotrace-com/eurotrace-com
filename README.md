@@ -135,11 +135,6 @@ The outcome depends on the circumstances of each case. Cryptocurrency recovery i
 
 ### EuroTrace — Cryptocurrency Investigation & Recovery Consulting
 
-<a href="https://eurotrace.net/">
-       alt="EuroTrace website preview"
-       width="100%">
-</a>
-
 **Project:** EuroTrace.com  
 **Category:** Cryptocurrency Investigation, Blockchain Forensics, Recovery Consulting  
 **Website:** [https://eurotrace.net/](https://eurotrace.net/)  
